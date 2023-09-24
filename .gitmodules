@@ -4,3 +4,6 @@
 [submodule "chain-battles"]
 	path = chain-battles
 	url = https://github.com/mllwchrry/chain-battles
+[submodule "nft-gallery-alchemy-api"]
+	path = nft-gallery-alchemy-api
+	url = https://github.com/mllwchrry/nft-gallery-alchemy-api.git
