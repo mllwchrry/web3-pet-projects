@@ -1,0 +1,6 @@
+[submodule "buy-me-a-coffee"]
+	path = buy-me-a-coffee
+	url = https://github.com/mllwchrry/buy-me-a-coffee
+[submodule "chain-battles"]
+	path = chain-battles
+	url = https://github.com/mllwchrry/chain-battles
